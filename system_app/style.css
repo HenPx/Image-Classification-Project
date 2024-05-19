@@ -1,0 +1,41 @@
+body {
+    background-color: #F3F2F8;
+    margin: 0;
+    padding: 0;
+}
+
+.stApp {
+    background-color: #FFFFFF;
+}
+
+.stElement {
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.stTitle {
+    color: #48A878; 
+    text-align: center; 
+    font-size: 60px;
+}
+
+.stSubHeader{
+    text-align: center;
+    font-weight: bold;
+}
+
+.stSubHeaderPred{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(138, 148, 0);
+}
+
+.h4.stSubHeader2{
+    font-size: 12px;
+    text-align: justify;
+}
+
+.glcm-title {
+    font-weight: bold;
+}
